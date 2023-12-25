@@ -52,7 +52,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596acbf','Habitación privada','habitación centrica a 15' en tren d plaza cataluña','L'Hospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · 1,5 baños','Wifi · Cocina · Lavadora','10 dic. – 12 dic.','4,88',' (114 evaluaciones)','19 €','38€ en total'
+    '6581ffbe7d4586d80596acbf','Habitación privada','habitación centrica a 15 en tren d plaza cataluña','LHospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · 1,5 baños','Wifi · Cocina · Lavadora','10 dic. – 12 dic.','4,88',' (114 evaluaciones)','19 €','38€ en total'
 );
 
 /* INSERT QUERY */
@@ -101,7 +101,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596acc6','Habitación privada','Hogar Coris (gata) Conxa,Prat,playas,Fira,','L'Hospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi','24 dic. – 26 dic.','4,55',' (280 evaluaciones)','26 €','52€ en total'
+    '6581ffbe7d4586d80596acc6','Habitación privada','Hogar Coris (gata) Conxa,Prat,playas,Fira,','LHospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi','24 dic. – 26 dic.','4,55',' (280 evaluaciones)','26 €','52€ en total'
 );
 
 /* INSERT QUERY */
@@ -129,7 +129,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596acca','Habitación privada','Cozy Room in Eixample (downtown Barcelona) 3','L'Antiga Esquerra de l'Eixample','2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos','Wifi · Cocina · Lavadora','17 dic. – 19 dic.','4,39',' (23 evaluaciones)','61 €','121€ en total'
+    '6581ffbe7d4586d80596acca','Habitación privada','Cozy Room in Eixample (downtown Barcelona) 3','LAntiga Esquerra de lEixample','2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos','Wifi · Cocina · Lavadora','17 dic. – 19 dic.','4,39',' (23 evaluaciones)','61 €','121€ en total'
 );
 
 /* INSERT QUERY */
@@ -150,7 +150,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596accd','Alojamiento entero: piso','Little Pretty Place... en el Corazón de Barcelona','L'Antiga Esquerra de l'Eixample','4 huéspedes · 2 dormitorios · 4 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','17 dic. – 19 dic.','4,5',' (273 evaluaciones)','100 €','200€ en total'
+    '6581ffbe7d4586d80596accd','Alojamiento entero: piso','Little Pretty Place... en el Corazón de Barcelona','LAntiga Esquerra de lEixample','4 huéspedes · 2 dormitorios · 4 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','17 dic. – 19 dic.','4,5',' (273 evaluaciones)','100 €','200€ en total'
 );
 
 /* INSERT QUERY */
@@ -276,7 +276,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596acdf','Apartamento con servicios entero','Camp Nou HOLIDAYS APARTAMENT Smart TV+ Wi-Fi FREE','L'Hospitalet de Llobregat','4 huéspedes · 2 dormitorios · 3 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,76',' (17 evaluaciones)','76 €','151€ en total'
+    '6581ffbe7d4586d80596acdf','Apartamento con servicios entero','Camp Nou HOLIDAYS APARTAMENT Smart TV+ Wi-Fi FREE','LHospitalet de Llobregat','4 huéspedes · 2 dormitorios · 3 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,76',' (17 evaluaciones)','76 €','151€ en total'
 );
 
 /* INSERT QUERY */
@@ -381,7 +381,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596acee','Alojamiento entero: loft','MODERN LOFT CAMP NOU WITH WI-FI AND AIRE','L'Hospitalet de Llobregat','4 huéspedes · 2 dormitorios · 3 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,65',' (124 evaluaciones)','81 €','162€ en total'
+    '6581ffbe7d4586d80596acee','Alojamiento entero: loft','MODERN LOFT CAMP NOU WITH WI-FI AND AIRE','LHospitalet de Llobregat','4 huéspedes · 2 dormitorios · 3 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,65',' (124 evaluaciones)','81 €','162€ en total'
 );
 
 /* INSERT QUERY */
@@ -465,7 +465,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596acfa','Habitación privada','Cozy Room in Eixample (downtown Barcelona) 2','L'Antiga Esquerra de l'Eixample','2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos','Wifi · Cocina · Lavadora','17 dic. – 19 dic.','4,5',' (40 evaluaciones)','61 €','121€ en total'
+    '6581ffbe7d4586d80596acfa','Habitación privada','Cozy Room in Eixample (downtown Barcelona) 2','LAntiga Esquerra de lEixample','2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos','Wifi · Cocina · Lavadora','17 dic. – 19 dic.','4,5',' (40 evaluaciones)','61 €','121€ en total'
 );
 
 /* INSERT QUERY */
@@ -626,14 +626,14 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad11','Habitación privada','Céntrico, tranquilo y seguro','L'Antiga Esquerra de l'Eixample','2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos','Wifi · Cocina','10 dic. – 12 dic.','4,78',' (63 evaluaciones)','58 €','116€ en total'
+    '6581ffbe7d4586d80596ad11','Habitación privada','Céntrico, tranquilo y seguro','LAntiga Esquerra de lEixample','2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos','Wifi · Cocina','10 dic. – 12 dic.','4,78',' (63 evaluaciones)','58 €','116€ en total'
 );
 
 /* INSERT QUERY */
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad12','Habitación privada','Bcn. Gracia, tranquilo y con terraza','El Camp d'en Grassot i Gràcia Nova','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Cocina · Lavadora','24 dic. – 26 dic.','4,83',' (7 evaluaciones)','36 €','71€ en total'
+    '6581ffbe7d4586d80596ad12','Habitación privada','Bcn. Gracia, tranquilo y con terraza','El Camp den Grassot i Gràcia Nova','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Cocina · Lavadora','24 dic. – 26 dic.','4,83',' (7 evaluaciones)','36 €','71€ en total'
 );
 
 /* INSERT QUERY */
@@ -647,7 +647,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad14','Alojamiento entero: piso','#1 Atico soleado con terraza - Camp Nou - BCN Fira','L'Hospitalet de Llobregat','4 huéspedes · 1 dormitorio · 3 camas · 1,5 baños','Wifi · Cocina · Aire acondicionado','17 dic. – 19 dic.','4,87',' (226 evaluaciones)','105 €','210€ en total'
+    '6581ffbe7d4586d80596ad14','Alojamiento entero: piso','#1 Atico soleado con terraza - Camp Nou - BCN Fira','LHospitalet de Llobregat','4 huéspedes · 1 dormitorio · 3 camas · 1,5 baños','Wifi · Cocina · Aire acondicionado','17 dic. – 19 dic.','4,87',' (226 evaluaciones)','105 €','210€ en total'
 );
 
 /* INSERT QUERY */
@@ -703,7 +703,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad1c','Habitación de hotel boutique','Urban Boutique Room 3','L'Hospitalet de Llobregat','2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado','Wifi · Aire acondicionado','17 dic. – 19 dic.','4,4',' (20 evaluaciones)','51 €','102€ en total'
+    '6581ffbe7d4586d80596ad1c','Habitación de hotel boutique','Urban Boutique Room 3','LHospitalet de Llobregat','2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado','Wifi · Aire acondicionado','17 dic. – 19 dic.','4,4',' (20 evaluaciones)','51 €','102€ en total'
 );
 
 /* INSERT QUERY */
@@ -724,7 +724,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad1f','Alojamiento entero: piso','Barcelona Marta´s Flat 2 - FC Barcelona HUTB017186','L'Hospitalet de Llobregat','3 huéspedes · 2 dormitorios · 3 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,56',' (103 evaluaciones)','71 €','141€ en total'
+    '6581ffbe7d4586d80596ad1f','Alojamiento entero: piso','Barcelona Marta´s Flat 2 - FC Barcelona HUTB017186','LHospitalet de Llobregat','3 huéspedes · 2 dormitorios · 3 camas · 1 baño','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,56',' (103 evaluaciones)','71 €','141€ en total'
 );
 
 /* INSERT QUERY */
@@ -766,7 +766,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad25','Habitación privada','Casa,Coris (gata) Conxa ,Prat,playas ,Fira,centro','L'Hospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Cocina','24 dic. – 26 dic.','4,63',' (156 evaluaciones)','26 €','52€ en total'
+    '6581ffbe7d4586d80596ad25','Habitación privada','Casa,Coris (gata) Conxa ,Prat,playas ,Fira,centro','LHospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Cocina','24 dic. – 26 dic.','4,63',' (156 evaluaciones)','26 €','52€ en total'
 );
 
 /* INSERT QUERY */
@@ -864,7 +864,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad33','Habitación de hotel boutique','Urban Boutique Room 4','L'Hospitalet de Llobregat','2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado','Wifi · Aire acondicionado','10 dic. – 12 dic.','4,54',' (13 evaluaciones)','46 €','92€ en total'
+    '6581ffbe7d4586d80596ad33','Habitación de hotel boutique','Urban Boutique Room 4','LHospitalet de Llobregat','2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado','Wifi · Aire acondicionado','10 dic. – 12 dic.','4,54',' (13 evaluaciones)','46 €','92€ en total'
 );
 
 /* INSERT QUERY */
@@ -969,7 +969,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad42','Habitación privada','Private Lounge, bathroom & bedroom','L'Antiga Esquerra de l'Eixample','4 huéspedes · 1 dormitorio · 1 cama · 1 baño privado','Wifi · Cocina · Lavadora','10 dic. – 12 dic.','4,84',' (228 evaluaciones)','84 €','167€ en total'
+    '6581ffbe7d4586d80596ad42','Habitación privada','Private Lounge, bathroom & bedroom','LAntiga Esquerra de lEixample','4 huéspedes · 1 dormitorio · 1 cama · 1 baño privado','Wifi · Cocina · Lavadora','10 dic. – 12 dic.','4,84',' (228 evaluaciones)','84 €','167€ en total'
 );
 
 /* INSERT QUERY */
@@ -1095,7 +1095,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad54','Habitación privada','Chilling Center','L'Antiga Esquerra de l'Eixample','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Aire acondicionado','26 nov. – 28 nov.','4,57',' (7 evaluaciones)','57 €','114€ en total'
+    '6581ffbe7d4586d80596ad54','Habitación privada','Chilling Center','LAntiga Esquerra de lEixample','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Aire acondicionado','26 nov. – 28 nov.','4,57',' (7 evaluaciones)','57 €','114€ en total'
 );
 
 /* INSERT QUERY */
@@ -1144,21 +1144,21 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad5b','Alojamiento entero: piso','M3- Basic Apartment & connected Airport and Center','L'Hospitalet de Llobregat','2 huéspedes · 1 dormitorio · 1 cama · 1 baño','Wifi · Aire acondicionado','26 nov. – 28 nov.','NA','No hay evaluaciones','59 €','117€ en total'
+    '6581ffbe7d4586d80596ad5b','Alojamiento entero: piso','M3- Basic Apartment & connected Airport and Center',"L'Hospitalet de Llobregat",'2 huéspedes · 1 dormitorio · 1 cama · 1 baño','Wifi · Aire acondicionado','26 nov. – 28 nov.','NA','No hay evaluaciones','59 €','117€ en total'
 );
 
 /* INSERT QUERY */
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad5c','Apartamento con servicios entero','APARTAMENTO ALL NEW, CAMP NOU. CASA BATITO 6','L'Hospitalet de Llobregat','4 huéspedes · 1 dormitorio · 1 baño','Wifi · Cocina · Aire acondicionado','10 dic. – 12 dic.','4,78',' (9 evaluaciones)','90 €','180€ en total'
+    '6581ffbe7d4586d80596ad5c','Apartamento con servicios entero','APARTAMENTO ALL NEW, CAMP NOU. CASA BATITO 6','LHospitalet de Llobregat','4 huéspedes · 1 dormitorio · 1 baño','Wifi · Cocina · Aire acondicionado','10 dic. – 12 dic.','4,78',' (9 evaluaciones)','90 €','180€ en total'
 );
 
 /* INSERT QUERY */
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad5d','Habitación privada','Habitación Confortable','L'Hospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Cocina · Lavadora','31 dic. – 2 ene.','5',' (10 evaluaciones)','30 €','59€ en total'
+    '6581ffbe7d4586d80596ad5d','Habitación privada','Habitación Confortable',"L'Hospitalet de Llobregat",'1 huésped · 1 dormitorio · 1 cama · 1 baño compartido','Wifi · Cocina · Lavadora','31 dic. – 2 ene.','5',' (10 evaluaciones)','30 €','59€ en total'
 );
 
 /* INSERT QUERY */
@@ -1326,7 +1326,7 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad75','Habitación privada','Alquilo habitación para chica, cómoda, con wifi','L'Hospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · Aseo compartido','Wifi · Aire acondicionado','19 nov. – 21 nov.','4,69',' (81 evaluaciones)','23 €','45€ en total'
+    '6581ffbe7d4586d80596ad75','Habitación privada','Alquilo habitación para chica, cómoda, con wifi','LHospitalet de Llobregat','1 huésped · 1 dormitorio · 1 cama · Aseo compartido','Wifi · Aire acondicionado','19 nov. – 21 nov.','4,69',' (81 evaluaciones)','23 €','45€ en total'
 );
 
 /* INSERT QUERY */
@@ -1403,5 +1403,5 @@ VALUES
 INSERT INTO TABLE_NAME( _id,Tipo,nombreAlojamiento,Zona,Nhab,Servicios,Fechas,Valoracion,Evaluaciones,Noche,Total )
 VALUES
 (
-    '6581ffbe7d4586d80596ad80','Alojamiento entero: piso','Central y encantador apartamento.','El Camp d'en Grassot i Gràcia Nova','6 huéspedes · 2 dormitorios · 4 camas · 2 baños','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,49',' (115 evaluaciones)','122 €','243€ en total'
+    '6581ffbe7d4586d80596ad80','Alojamiento entero: piso','Central y encantador apartamento.',"El Camp d'en Grassot i Gràcia Nova",'6 huéspedes · 2 dormitorios · 4 camas · 2 baños','Wifi · Cocina · Lavadora · Aire acondicionado','10 dic. – 12 dic.','4,49',' (115 evaluaciones)','122 €','243€ en total'
 );
