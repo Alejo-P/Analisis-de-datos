@@ -1,0 +1,150 @@
+[
+{
+    "type": "header",
+    "version": "5.2.1",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "el_buho"
+},
+{
+    "type": "table",
+    "name": "table_name",
+    "database": "el_buho",
+    "data": 
+[
+{
+    "_id": "6581ffbe7d4586d80596acba",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Gran Habitación en el Centro de Barcelona",
+    "Zona": "Eixample",
+    "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+    "Servicios": "Wifi · Cocina · Lavadora",
+    "Fechas": "17 dic. – 19 dic.",
+    "Valoracion": "4,75",
+    "Evaluaciones": " (414 evaluaciones)",
+    "Noche": "76 €",
+    "Total": "151€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbb",
+    "Tipo": "Alojamiento entero: loft",
+    "nombreAlojamiento": "Un espacio con encanto en Barcelona",
+    "Zona": "Distrito de Sants-Montjuïc",
+    "Nhab": "1 huésped · Estudio · 2 camas · 1 baño",
+    "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+    "Fechas": "24 dic. – 26 dic.",
+    "Valoracion": "4,81",
+    "Evaluaciones": " (442 evaluaciones)",
+    "Noche": "107 €",
+    "Total": "213€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbc",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Twin Room Central + Close to the beach",
+    "Zona": "Sant Marti",
+    "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1,5 baños",
+    "Servicios": "Wifi · Cocina",
+    "Fechas": "24 dic. – 26 dic.",
+    "Valoracion": "4,5",
+    "Evaluaciones": " (20 evaluaciones)",
+    "Noche": "48 €",
+    "Total": "95€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbd",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Habitación acogedora en el Centro de Barcelona",
+    "Zona": "Ciutat Vella",
+    "Nhab": "2 huéspedes · 1 dormitorio · 1 baño",
+    "Servicios": "Wifi",
+    "Fechas": "10 dic. – 12 dic.",
+    "Valoracion": "4,31",
+    "Evaluaciones": " (26 evaluaciones)",
+    "Noche": "53 €",
+    "Total": "106€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbe",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Charming private 1 bedroom w\/ balcony in Poble Sec",
+    "Zona": "El Poble Sec",
+    "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+    "Servicios": "Wifi · Cocina · Lavadora",
+    "Fechas": "26 nov. – 28 nov.",
+    "Valoracion": "4,86",
+    "Evaluaciones": " (101 evaluaciones)",
+    "Noche": "53 €",
+    "Total": "106€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acba",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Gran Habitación en el Centro de Barcelona",
+    "Zona": "Eixample",
+    "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+    "Servicios": "Wifi · Cocina · Lavadora",
+    "Fechas": "17 dic. – 19 dic.",
+    "Valoracion": "4,75",
+    "Evaluaciones": " (414 evaluaciones)",
+    "Noche": "76 €",
+    "Total": "151€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbb",
+    "Tipo": "Alojamiento entero: loft",
+    "nombreAlojamiento": "Un espacio con encanto en Barcelona",
+    "Zona": "Distrito de Sants-Montjuïc",
+    "Nhab": "1 huésped · Estudio · 2 camas · 1 baño",
+    "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+    "Fechas": "24 dic. – 26 dic.",
+    "Valoracion": "4,81",
+    "Evaluaciones": " (442 evaluaciones)",
+    "Noche": "107 €",
+    "Total": "213€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbc",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Twin Room Central + Close to the beach",
+    "Zona": "Sant Marti",
+    "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1,5 baños",
+    "Servicios": "Wifi · Cocina",
+    "Fechas": "24 dic. – 26 dic.",
+    "Valoracion": "4,5",
+    "Evaluaciones": " (20 evaluaciones)",
+    "Noche": "48 €",
+    "Total": "95€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbd",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Habitación acogedora en el Centro de Barcelona",
+    "Zona": "Ciutat Vella",
+    "Nhab": "2 huéspedes · 1 dormitorio · 1 baño",
+    "Servicios": "Wifi",
+    "Fechas": "10 dic. – 12 dic.",
+    "Valoracion": "4,31",
+    "Evaluaciones": " (26 evaluaciones)",
+    "Noche": "53 €",
+    "Total": "106€ en total"
+},
+{
+    "_id": "6581ffbe7d4586d80596acbe",
+    "Tipo": "Habitación privada",
+    "nombreAlojamiento": "Charming private 1 bedroom w\/ balcony in Poble Sec",
+    "Zona": "El Poble Sec",
+    "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+    "Servicios": "Wifi · Cocina · Lavadora",
+    "Fechas": "26 nov. – 28 nov.",
+    "Valoracion": "4,86",
+    "Evaluaciones": " (101 evaluaciones)",
+    "Noche": "53 €",
+    "Total": "106€ en total"
+}
+]
+
+}
+]

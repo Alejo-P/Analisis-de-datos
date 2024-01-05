@@ -1,0 +1,2985 @@
+[{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab2c"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitacion centro Barcelona, Ciutat Vella room.",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,6",
+  "Evaluaciones": " (25 evaluaciones)",
+  "Noche": "24 €",
+  "Total": "47€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab2d"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Agradable habitación en pleno centro de Barcelona",
+  "Zona": "La Font de la Guatlla",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,57",
+  "Evaluaciones": " (449 evaluaciones)",
+  "Noche": "29 €",
+  "Total": "57€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab2e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room in the city center (Gothic,Rambla,Catedral)",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,48",
+  "Evaluaciones": " (120 evaluaciones)",
+  "Noche": "25 €",
+  "Total": "50€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab2f"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Comfortable single room",
+  "Zona": "Eixample",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,57",
+  "Evaluaciones": " (35 evaluaciones)",
+  "Noche": "37 €",
+  "Total": "73€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab30"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Outstanding aparment &Amazing location :)",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,77",
+  "Evaluaciones": " (35 evaluaciones)",
+  "Noche": "85 €",
+  "Total": "170€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab31"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación en Gracia cerca del Park Güell",
+  "Zona": "El Camp d'en Grassot i Gràcia Nova",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,78",
+  "Evaluaciones": " (201 evaluaciones)",
+  "Noche": "29 €",
+  "Total": "57€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab32"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación doble con balcón panorámico",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,55",
+  "Evaluaciones": " (22 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab33"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitacion interior con cama de dos plazas",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,44",
+  "Evaluaciones": " (232 evaluaciones)",
+  "Noche": "23 €",
+  "Total": "45€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab34"
+  },
+  "Tipo": "Habitación de hotel boutique",
+  "nombreAlojamiento": "Super Suite H4* Gracia Stay & Up n4",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,74",
+  "Evaluaciones": " (65 evaluaciones)",
+  "Noche": "70 €",
+  "Total": "139€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab35"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Small room in the Heart of BARCELONA.",
+  "Zona": "L'Antiga Esquerra de l'Eixample",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,4",
+  "Evaluaciones": " (276 evaluaciones)",
+  "Noche": "30 €",
+  "Total": "59€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab36"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Habitación Individual con baño compartido",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,73",
+  "Evaluaciones": " (15 evaluaciones)",
+  "Noche": "44 €",
+  "Total": "88€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab37"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Mundi",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,56",
+  "Evaluaciones": " (146 evaluaciones)",
+  "Noche": "32 €",
+  "Total": "63€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab38"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación doble en Sagrada Familia",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,33",
+  "Evaluaciones": " (314 evaluaciones)",
+  "Noche": "33 €",
+  "Total": "66€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab39"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Private Room with Private Bathroom in BCN Center",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,87",
+  "Evaluaciones": " (30 evaluaciones)",
+  "Noche": "65 €",
+  "Total": "130€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab3a"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "excelente room doble/TV/terraza plaza España/sants",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2 baños compartidos",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,95",
+  "Evaluaciones": " (208 evaluaciones)",
+  "Noche": "35 €",
+  "Total": "69€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab3b"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Comfortable single room 5' from Sants Station",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,88",
+  "Evaluaciones": " (120 evaluaciones)",
+  "Noche": "39 €",
+  "Total": "77€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab3c"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación Individual Barcelona",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,78",
+  "Evaluaciones": " (259 evaluaciones)",
+  "Noche": "24 €",
+  "Total": "47€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab3d"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Vegan friendly apt - 300m to Sagrada Família",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,83",
+  "Evaluaciones": " (85 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "118€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab3e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Beautiful bedroom with balcony in best area",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,69",
+  "Evaluaciones": " (36 evaluaciones)",
+  "Noche": "51 €",
+  "Total": "102€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab3f"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Central Room",
+  "Zona": "Sant Marti",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,42",
+  "Evaluaciones": " (101 evaluaciones)",
+  "Noche": "29 €",
+  "Total": "58€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab40"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Super Room (A)",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,56",
+  "Evaluaciones": " (308 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab41"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Espectacular habitación doble con balcón",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2 baños compartidos",
+  "Servicios": "Wifi",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,61",
+  "Evaluaciones": " (18 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab42"
+  },
+  "Tipo": "Habitación de hotel boutique",
+  "nombreAlojamiento": "Super Suite H4* Gracia Stay & Up n2",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,84",
+  "Evaluaciones": " (55 evaluaciones)",
+  "Noche": "73 €",
+  "Total": "145€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab43"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Hostal Nitzs BCN, Double Room w/ Shared Bathroom",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,33",
+  "Evaluaciones": " (36 evaluaciones)",
+  "Noche": "49 €",
+  "Total": "98€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab44"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Cozy room, worthy of you !! ONLY FOR GIRLS",
+  "Zona": "Les Corts",
+  "Nhab": "1 huésped · 1 dormitorio · 1,5 baños compartidos",
+  "Servicios": "Wifi · Lavadora",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,87",
+  "Evaluaciones": " (47 evaluaciones)",
+  "Noche": "32 €",
+  "Total": "64€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab45"
+  },
+  "Tipo": "Habitación",
+  "nombreAlojamiento": "Cozy room 1’ to Las Ramblas",
+  "Zona": "un apartamento con servicios",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,4",
+  "Evaluaciones": " (25 evaluaciones)",
+  "Noche": "44 €",
+  "Total": "88€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab46"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Quietpen PReïal. Kit",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,61",
+  "Evaluaciones": " (771 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "117€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab47"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Barcelona's Heart",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,49",
+  "Evaluaciones": " (261 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab48"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Huge and bright double room",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,61",
+  "Evaluaciones": " (23 evaluaciones)",
+  "Noche": "51 €",
+  "Total": "102€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab49"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Lovely and Cozy Bedroom Barcelona City Center",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,76",
+  "Evaluaciones": " (75 evaluaciones)",
+  "Noche": "43 €",
+  "Total": "86€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab4a"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Charming Place hidden in the center of Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,93",
+  "Evaluaciones": " (185 evaluaciones)",
+  "Noche": "66 €",
+  "Total": "132€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab4b"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Single Room in the heart of Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (22 evaluaciones)",
+  "Noche": "57 €",
+  "Total": "114€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab4c"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Double room in Ramblas",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,38",
+  "Evaluaciones": " (53 evaluaciones)",
+  "Noche": "44 €",
+  "Total": "88€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab4d"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room with private bathroom 5’ to Las Ramblas",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,09",
+  "Evaluaciones": " (140 evaluaciones)",
+  "Noche": "43 €",
+  "Total": "85€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab4e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "NEW RENOVATED ROOM . SHARE APARMENT",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,43",
+  "Evaluaciones": " (37 evaluaciones)",
+  "Noche": "48 €",
+  "Total": "95€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab4f"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "A cosy room 2mns to Picasso museum",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,9",
+  "Evaluaciones": " (70 evaluaciones)",
+  "Noche": "49 €",
+  "Total": "97€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab50"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación privada en Sagrada Familia ✨❤️",
+  "Zona": "El Fort Pienc",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,83",
+  "Evaluaciones": " (36 evaluaciones)",
+  "Noche": "49 €",
+  "Total": "97€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab51"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "(1double room! Historic cente) IN RAMBLAS",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,55",
+  "Evaluaciones": " (160 evaluaciones)",
+  "Noche": "53 €",
+  "Total": "106€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab52"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Airy Private Double Bedroom in Central Barcelona",
+  "Zona": "El Poble Sec",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,76",
+  "Evaluaciones": " (22 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "84€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab53"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación con terraza privada: RAVAL",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,67",
+  "Evaluaciones": " (507 evaluaciones)",
+  "Noche": "56 €",
+  "Total": "111€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab54"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación privada Sagrada Familia",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "1 huésped · 1 dormitorio · 2,5 baños compartidos",
+  "Servicios": "17 dic. – 19 dic.",
+  "Fechas": "4,6",
+  "Valoracion": "NA",
+  "Evaluaciones": "No hay evaluaciones",
+  "Noche": "36 €",
+  "Total": "71€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab55"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "habitacion doble cercana a las fuentes de Montjuic",
+  "Zona": "El Poble Sec",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,73",
+  "Evaluaciones": " (15 evaluaciones)",
+  "Noche": "36 €",
+  "Total": "71€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab56"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Amplia y cómoda habitación doble con balcón",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2 baños compartidos",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,52",
+  "Evaluaciones": " (23 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab57"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Hostal Nitzs BCN, Double Room w/ Private Bathroom",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,46",
+  "Evaluaciones": " (13 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "118€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab58"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Pequeña♡adorable habitación BCN",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,42",
+  "Evaluaciones": " (630 evaluaciones)",
+  "Noche": "29 €",
+  "Total": "57€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab59"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Villa Gil 2",
+  "Zona": "El Fort Pienc",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,59",
+  "Evaluaciones": " (32 evaluaciones)",
+  "Noche": "35 €",
+  "Total": "69€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab5a"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Chill-out Room in the heart of Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,74",
+  "Evaluaciones": " (19 evaluaciones)",
+  "Noche": "38 €",
+  "Total": "76€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab5b"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "Classical loft close to pedrera!",
+  "Zona": "Eixample",
+  "Nhab": "4 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,34",
+  "Evaluaciones": " (193 evaluaciones)",
+  "Noche": "94 €",
+  "Total": "187€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab5c"
+  },
+  "Tipo": "Habitación de hotel",
+  "nombreAlojamiento": "Habitación Doble, en el corazón de Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,14",
+  "Evaluaciones": " (29 evaluaciones)",
+  "Noche": "69 €",
+  "Total": "138€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab5d"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Centric Double Room Private Bathroom",
+  "Zona": "L'Antiga Esquerra de l'Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2 baños",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,76",
+  "Evaluaciones": " (108 evaluaciones)",
+  "Noche": "51 €",
+  "Total": "102€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab5e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Ile 2",
+  "Zona": "Distrito de Horta-Guinardó",
+  "Nhab": "1 huésped · 1 dormitorio · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,74",
+  "Evaluaciones": " (39 evaluaciones)",
+  "Noche": "30 €",
+  "Total": "59€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab5f"
+  },
+  "Tipo": "Habitación de hotel boutique",
+  "nombreAlojamiento": "Hostal Khronos, Double Room with Balcony",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,55",
+  "Evaluaciones": " (64 evaluaciones)",
+  "Noche": "77 €",
+  "Total": "153€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab60"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Bonitas vistas en el centro ,",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,79",
+  "Evaluaciones": " (19 evaluaciones)",
+  "Noche": "30 €",
+  "Total": "60€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab61"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Apto. céntrico ideal para parejas",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,52",
+  "Evaluaciones": " (308 evaluaciones)",
+  "Noche": "71 €",
+  "Total": "141€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab62"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Spacious Cosy room & Private balcony and bathroom",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (3 evaluaciones)",
+  "Noche": "53 €",
+  "Total": "105€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab63"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Bonito piso en Barcelona!",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,87",
+  "Evaluaciones": " (15 evaluaciones)",
+  "Noche": "51 €",
+  "Total": "102€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab64"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Single Room In La Barceloneta For a Female Guest",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,45",
+  "Evaluaciones": " (31 evaluaciones)",
+  "Noche": "26 €",
+  "Total": "52€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab65"
+  },
+  "Tipo": "Habitación de hotel",
+  "nombreAlojamiento": "Hola Hostal Eixample. Cama en dormitorio 24pax",
+  "Zona": "Eixample",
+  "Nhab": "1 huésped · 1 dormitorio",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "19 nov. – 21 nov.",
+  "Valoracion": "4,43",
+  "Evaluaciones": " (702 evaluaciones)",
+  "Noche": "19 €",
+  "Total": "38€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab66"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Double bed Studio next to the beach La Barceloneta",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "NA",
+  "Evaluaciones": "No hay evaluaciones",
+  "Noche": "94 €",
+  "Total": "187€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab67"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Nice room with private bathroom in center",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,59",
+  "Evaluaciones": " (22 evaluaciones)",
+  "Noche": "58 €",
+  "Total": "116€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab68"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Impresionante apartamento en la playa",
+  "Zona": "Sant Marti",
+  "Nhab": "4 huéspedes · 1 dormitorio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,71",
+  "Evaluaciones": " (360 evaluaciones)",
+  "Noche": "93 €",
+  "Total": "185€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab69"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Cozy room in the heart of BARCELONA",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,77",
+  "Evaluaciones": " (74 evaluaciones)",
+  "Noche": "55 €",
+  "Total": "109€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab6a"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Lovely doble room in the center of BCN",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,3",
+  "Evaluaciones": " (88 evaluaciones)",
+  "Noche": "33 €",
+  "Total": "66€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab6b"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "圣家堂附近单人间",
+  "Zona": "Eixample",
+  "Nhab": "1 huésped · 1 dormitorio · 1,5 baños compartidos",
+  "Servicios": "Wifi · Lavadora",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,86",
+  "Evaluaciones": " (7 evaluaciones)",
+  "Noche": "26 €",
+  "Total": "51€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab6c"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "confortable room",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,47",
+  "Evaluaciones": " (34 evaluaciones)",
+  "Noche": "36 €",
+  "Total": "71€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab6d"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "NEW APARMENT PERFECT LOCATION",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · Estudio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "19 nov. – 21 nov.",
+  "Valoracion": "4,69",
+  "Evaluaciones": " (260 evaluaciones)",
+  "Noche": "115 €",
+  "Total": "229€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab6e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "SINGLE private bedroom",
+  "Zona": "Sant Marti",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,81",
+  "Evaluaciones": " (21 evaluaciones)",
+  "Noche": "24 €",
+  "Total": "47€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab6f"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Mihlton B&B Habitación individual baño privado",
+  "Zona": "Eixample",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,67",
+  "Evaluaciones": " (21 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "118€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab70"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Central Single Room Near Plaza Catalunya",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,8",
+  "Evaluaciones": " (106 evaluaciones)",
+  "Noche": "48 €",
+  "Total": "95€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab71"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación privada en el Born",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,5",
+  "Evaluaciones": " (95 evaluaciones)",
+  "Noche": "52 €",
+  "Total": "104€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab72"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "PRIVATE LOFT IN THE BORNE",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · Estudio · 2 camas · 1,5 baños",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (10 evaluaciones)",
+  "Noche": "95 €",
+  "Total": "189€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab73"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación doble Barcelona Centro",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,5",
+  "Evaluaciones": " (52 evaluaciones)",
+  "Noche": "44 €",
+  "Total": "88€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab74"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room Sagrada Familia + Rooftop",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,65",
+  "Evaluaciones": " (21 evaluaciones)",
+  "Noche": "51 €",
+  "Total": "101€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab75"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Habitación Doble con baño privado externo- 1 cama",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "NA",
+  "Evaluaciones": "No hay evaluaciones",
+  "Noche": "65 €",
+  "Total": "130€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab76"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Quietpen PReïal. Rooftop",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,62",
+  "Evaluaciones": " (617 evaluaciones)",
+  "Noche": "63 €",
+  "Total": "125€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab77"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Private Double Bedroom in Central Barcelona",
+  "Zona": "El Poble Sec",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (27 evaluaciones)",
+  "Noche": "54 €",
+  "Total": "107€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab78"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Beach modern spacious room Queen bed in Poblenou",
+  "Zona": "Sant Marti",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (12 evaluaciones)",
+  "Noche": "53 €",
+  "Total": "106€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab79"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room with big bed",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,56",
+  "Evaluaciones": " (117 evaluaciones)",
+  "Noche": "40 €",
+  "Total": "79€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab7a"
+  },
+  "Tipo": "Alojamiento entero: alojamiento residencial",
+  "nombreAlojamiento": "Ameno Atico: cerca de la playa pero céntrico",
+  "Zona": "Sant Marti",
+  "Nhab": "3 huéspedes · 1 dormitorio · 4 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,74",
+  "Evaluaciones": " (260 evaluaciones)",
+  "Noche": "119 €",
+  "Total": "238€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab7b"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Ile1",
+  "Zona": "Distrito de Horta-Guinardó",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,45",
+  "Evaluaciones": " (40 evaluaciones)",
+  "Noche": "32 €",
+  "Total": "64€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab7c"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "Cozy Studio Loft close to Metro and Camp Nou",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "3 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,67",
+  "Evaluaciones": " (150 evaluaciones)",
+  "Noche": "68 €",
+  "Total": "135€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab7d"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Gorgeous room with balcony in the city center",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,8",
+  "Evaluaciones": " (199 evaluaciones)",
+  "Noche": "64 €",
+  "Total": "127€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab7e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Nice Flat at Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "19 nov. – 21 nov.",
+  "Valoracion": "4,25",
+  "Evaluaciones": " (72 evaluaciones)",
+  "Noche": "36 €",
+  "Total": "71€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab7f"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "casa DERY Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,38",
+  "Evaluaciones": " (13 evaluaciones)",
+  "Noche": "28 €",
+  "Total": "55€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab80"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación individual a 15' del centro",
+  "Zona": "Distrito de Horta-Guinardó",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "12 nov. – 14 nov.",
+  "Valoracion": "4,95",
+  "Evaluaciones": " (116 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab81"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "El Faro, Habitacion privada 1",
+  "Zona": "Distrito de Horta-Guinardó",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,56",
+  "Evaluaciones": " (61 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab82"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Spacious room with natural light and privacy",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,64",
+  "Evaluaciones": " (14 evaluaciones)",
+  "Noche": "56 €",
+  "Total": "112€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab83"
+  },
+  "Tipo": "Habitación de hotel boutique",
+  "nombreAlojamiento": "Double Room Gallery extra bed",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,29",
+  "Evaluaciones": " (7 evaluaciones)",
+  "Noche": "80 €",
+  "Total": "160€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab84"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Hab X 2 :) Hospital Sant Pau y Sagrada Familia",
+  "Zona": "Sant Marti",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,59",
+  "Evaluaciones": " (98 evaluaciones)",
+  "Noche": "45 €",
+  "Total": "89€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab85"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Habitación Doble con baño compartido - 2 camas",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1,5 baños compartidos",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,86",
+  "Evaluaciones": " (7 evaluaciones)",
+  "Noche": "58 €",
+  "Total": "116€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab86"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room to rent in central Barcelona near la rambla",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (3 evaluaciones)",
+  "Noche": "64 €",
+  "Total": "127€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab87"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "CAMP NOU VACACIONES APARTAMENT 3 ROOMS WI-FI FREE",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "4 huéspedes · 3 dormitorios · 4 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,57",
+  "Evaluaciones": " (196 evaluaciones)",
+  "Noche": "81 €",
+  "Total": "162€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab88"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación en pleno centro de barcelona",
+  "Zona": "Les Corts",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,75",
+  "Evaluaciones": " (16 evaluaciones)",
+  "Noche": "43 €",
+  "Total": "85€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab89"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Precioso Estudio en Barcelona *Bcn* E04",
+  "Zona": "Eixample",
+  "Nhab": "3 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Tu anfitrión es una empresa · Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,62",
+  "Evaluaciones": " (63 evaluaciones)",
+  "Noche": "103 €",
+  "Total": "206€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab8a"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitacion sensilla confortable en casa familiar",
+  "Zona": "Sant Marti",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,73",
+  "Evaluaciones": " (198 evaluaciones)",
+  "Noche": "31 €",
+  "Total": "62€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab8b"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Precioso apartamento cerca de Sagrada Familia",
+  "Zona": "Sant Marti",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "NA",
+  "Evaluaciones": "No hay evaluaciones",
+  "Noche": "41 €",
+  "Total": "81€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab8c"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación dobe con terraza en el Gracia",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,17",
+  "Evaluaciones": " (153 evaluaciones)",
+  "Noche": "39 €",
+  "Total": "77€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab8d"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Design Catalan Room El Born for 2 Persons",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,79",
+  "Evaluaciones": " (29 evaluaciones)",
+  "Noche": "63 €",
+  "Total": "125€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab8e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Gran Habitación en el Centro de Barcelona",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,75",
+  "Evaluaciones": " (414 evaluaciones)",
+  "Noche": "76 €",
+  "Total": "151€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab8f"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "Un espacio con encanto en Barcelona",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "1 huésped · Estudio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,81",
+  "Evaluaciones": " (442 evaluaciones)",
+  "Noche": "107 €",
+  "Total": "213€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab90"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Twin Room Central + Close to the beach",
+  "Zona": "Sant Marti",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1,5 baños",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,5",
+  "Evaluaciones": " (20 evaluaciones)",
+  "Noche": "48 €",
+  "Total": "95€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab91"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación acogedora en el Centro de Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 baño",
+  "Servicios": "Wifi",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,31",
+  "Evaluaciones": " (26 evaluaciones)",
+  "Noche": "53 €",
+  "Total": "106€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab92"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Charming private 1 bedroom w/ balcony in Poble Sec",
+  "Zona": "El Poble Sec",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,86",
+  "Evaluaciones": " (101 evaluaciones)",
+  "Noche": "53 €",
+  "Total": "106€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab93"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "habitación centrica a 15' en tren d plaza cataluña",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1,5 baños",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,88",
+  "Evaluaciones": " (114 evaluaciones)",
+  "Noche": "19 €",
+  "Total": "38€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab94"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Sunny apartment next to Sagrada Familia",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Tu anfitrión es una empresa · Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,9",
+  "Evaluaciones": " (21 evaluaciones)",
+  "Noche": "110 €",
+  "Total": "220€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab95"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Habitación Doble con baño privado - 1 cama doble",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,9",
+  "Evaluaciones": " (10 evaluaciones)",
+  "Noche": "69 €",
+  "Total": "138€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab96"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "BEAUTIFUL DOUBLE ROOM Sagrada Familia",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,94",
+  "Evaluaciones": " (49 evaluaciones)",
+  "Noche": "58 €",
+  "Total": "116€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab97"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "Stylish 1-bedroom Apartment + Loft/Downtown BCN",
+  "Zona": "Eixample",
+  "Nhab": "5 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,68",
+  "Evaluaciones": " (191 evaluaciones)",
+  "Noche": "114 €",
+  "Total": "227€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab98"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Private -bedroom",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 4 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,47",
+  "Evaluaciones": " (49 evaluaciones)",
+  "Noche": "43 €",
+  "Total": "85€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab99"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Centric bedroom with private bath & views",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,86",
+  "Evaluaciones": " (14 evaluaciones)",
+  "Noche": "55 €",
+  "Total": "110€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab9a"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Hogar Coris (gata) Conxa,Prat,playas,Fira,",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,55",
+  "Evaluaciones": " (280 evaluaciones)",
+  "Noche": "26 €",
+  "Total": "52€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab9b"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Nice & Cozy Apartment in Gracia",
+  "Zona": "Gràcia",
+  "Nhab": "4 huéspedes · 1 dormitorio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,87",
+  "Evaluaciones": " (423 evaluaciones)",
+  "Noche": "124 €",
+  "Total": "247€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab9c"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Luxury room with private bathroom at Las Ramblas",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,81",
+  "Evaluaciones": " (21 evaluaciones)",
+  "Noche": "78 €",
+  "Total": "156€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab9d"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Enjoy Room, private bathroom, center near beach",
+  "Zona": "Ciutat Vella",
+  "Nhab": "4 huéspedes · 1 dormitorio · 3 camas · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,4",
+  "Evaluaciones": " (84 evaluaciones)",
+  "Noche": "70 €",
+  "Total": "139€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab9e"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Cozy Room in Eixample (downtown Barcelona) 3",
+  "Zona": "L'Antiga Esquerra de l'Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,39",
+  "Evaluaciones": " (23 evaluaciones)",
+  "Noche": "61 €",
+  "Total": "121€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596ab9f"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación doble/Sagrada Familia-Barcelona",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,45",
+  "Evaluaciones": " (38 evaluaciones)",
+  "Noche": "45 €",
+  "Total": "89€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba0"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "A small individual room in a sharing apartment",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,64",
+  "Evaluaciones": " (124 evaluaciones)",
+  "Noche": "39 €",
+  "Total": "77€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba1"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Little Pretty Place... en el Corazón de Barcelona",
+  "Zona": "L'Antiga Esquerra de l'Eixample",
+  "Nhab": "4 huéspedes · 2 dormitorios · 4 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,5",
+  "Evaluaciones": " (273 evaluaciones)",
+  "Noche": "100 €",
+  "Total": "200€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba2"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Secret Room For 2 Persons / Centre El Born",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,58",
+  "Evaluaciones": " (69 evaluaciones)",
+  "Noche": "67 €",
+  "Total": "134€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba3"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "SUITE 30m2. AirCond. Heating. WIFI. LIFT. PARKING.",
+  "Zona": "El Putxet i el Farró",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,51",
+  "Evaluaciones": " (231 evaluaciones)",
+  "Noche": "96 €",
+  "Total": "192€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba4"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "SAN&SUN, vintage loft in city center",
+  "Zona": "El Poble Sec",
+  "Nhab": "4 huéspedes · 1 dormitorio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,71",
+  "Evaluaciones": " (391 evaluaciones)",
+  "Noche": "101 €",
+  "Total": "201€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba5"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación privada en plena de Barcelona",
+  "Zona": "Sant Marti",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,84",
+  "Evaluaciones": " (43 evaluaciones)",
+  "Noche": "48 €",
+  "Total": "95€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba6"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitacion en centro de Barcelona con baño privado",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,66",
+  "Evaluaciones": " (207 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "118€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba7"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "2-1 · Loft a 10 minutos de la Sagrada Familia",
+  "Zona": "Eixample",
+  "Nhab": "4 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,58",
+  "Evaluaciones": " (12 evaluaciones)",
+  "Noche": "117 €",
+  "Total": "233€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba8"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room x 4 people ramblas beach",
+  "Zona": "Ciutat Vella",
+  "Nhab": "4 huéspedes · 1 dormitorio · 3 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,29",
+  "Evaluaciones": " (24 evaluaciones)",
+  "Noche": "71 €",
+  "Total": "141€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596aba9"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "habitacion 1 en el parque guell limpia y tranquila",
+  "Zona": "La Teixonera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1,5 baños",
+  "Servicios": "Wifi",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,32",
+  "Evaluaciones": " (22 evaluaciones)",
+  "Noche": "33 €",
+  "Total": "65€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abaa"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Doble con baño compartido y ducha privada- 2 camas",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1,5 baños compartidos",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,5",
+  "Evaluaciones": " (8 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "118€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abab"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "PB2 Light&Dream / Connected Airport&Downtown",
+  "Zona": "Pubilla Cases",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,61",
+  "Evaluaciones": " (33 evaluaciones)",
+  "Noche": "71 €",
+  "Total": "141€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abac"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "42sqm Suite Next to Plaza Catalunya",
+  "Zona": "Ciutat Vella",
+  "Nhab": "4 huéspedes · 1 dormitorio · 2 camas · 1 baño privado",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,81",
+  "Evaluaciones": " (16 evaluaciones)",
+  "Noche": "84 €",
+  "Total": "168€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abad"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Penthouse with terrace (plaza España)",
+  "Zona": "Hostafrangs",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,83",
+  "Evaluaciones": " (60 evaluaciones)",
+  "Noche": "96 €",
+  "Total": "192€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abae"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Cómoda Habitación Individual al lado de Aeropuerto",
+  "Zona": "El Prat de Llobregat",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,95",
+  "Evaluaciones": " (104 evaluaciones)",
+  "Noche": "30 €",
+  "Total": "60€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abaf"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Cosy Room in the heart of Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,69",
+  "Evaluaciones": " (49 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "118€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb0"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room in the heart of barcelona - La Rambla",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,69",
+  "Evaluaciones": " (109 evaluaciones)",
+  "Noche": "62 €",
+  "Total": "124€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb1"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Central room in plaza España",
+  "Zona": "Hostafrangs",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,75",
+  "Evaluaciones": " (4 evaluaciones)",
+  "Noche": "53 €",
+  "Total": "106€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb2"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Luxury Room with En Suite Bathroom",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,72",
+  "Evaluaciones": " (32 evaluaciones)",
+  "Noche": "78 €",
+  "Total": "156€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb3"
+  },
+  "Tipo": "Apartamento con servicios entero",
+  "nombreAlojamiento": "Camp Nou HOLIDAYS APARTAMENT Smart TV+ Wi-Fi FREE",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "4 huéspedes · 2 dormitorios · 3 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,76",
+  "Evaluaciones": " (17 evaluaciones)",
+  "Noche": "76 €",
+  "Total": "151€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb4"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Doble Room, Ramblas. Habitación doble",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,4",
+  "Evaluaciones": " (42 evaluaciones)",
+  "Noche": "52 €",
+  "Total": "103€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb5"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Double room in Sagrada Familia.",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,87",
+  "Evaluaciones": " (68 evaluaciones)",
+  "Noche": "51 €",
+  "Total": "101€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb6"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "Precioso Estudio en Barcelona *Bcn* E01",
+  "Zona": "Eixample",
+  "Nhab": "3 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Tu anfitrión es una empresa · Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,57",
+  "Evaluaciones": " (59 evaluaciones)",
+  "Noche": "103 €",
+  "Total": "206€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb7"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "SUNNY room for 2 or 3 person near sagrada familia",
+  "Zona": "Distrito de Horta-Guinardó",
+  "Nhab": "3 huéspedes · 1 dormitorio · 2 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": 4,
+  "Evaluaciones": " (19 evaluaciones)",
+  "Noche": "41 €",
+  "Total": "82€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb8"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación amplia en casa antigua",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2,5 baños compartidos",
+  "Servicios": "Wifi · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,45",
+  "Evaluaciones": " (11 evaluaciones)",
+  "Noche": "45 €",
+  "Total": "89€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abb9"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "City center Gràcia 5 min to Sagrada Familia",
+  "Zona": "Gràcia",
+  "Nhab": "6 huéspedes · 3 dormitorios · 3 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,67",
+  "Evaluaciones": " (21 evaluaciones)",
+  "Noche": "114 €",
+  "Total": "228€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abba"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación con dos camas individuales en Poblesec",
+  "Zona": "El Poble Sec",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,81",
+  "Evaluaciones": " (42 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abbb"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Súper nice room for a balcony",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,58",
+  "Evaluaciones": " (105 evaluaciones)",
+  "Noche": "65 €",
+  "Total": "130€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abbc"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Cozy and Modern Single Room",
+  "Zona": "Eixample",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,75",
+  "Evaluaciones": " (80 evaluaciones)",
+  "Noche": "62 €",
+  "Total": "124€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abbd"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Best location La Rambla private bathroom and A.C",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Lavadora",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,59",
+  "Evaluaciones": " (99 evaluaciones)",
+  "Noche": "65 €",
+  "Total": "130€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abbe"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room + Bathroom PRÍVATE+Breakfast/Saniticed",
+  "Zona": "Distrito de San Andrés",
+  "Nhab": "3 huéspedes · 1 dormitorio · 2 camas · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,94",
+  "Evaluaciones": " (81 evaluaciones)",
+  "Noche": "65 €",
+  "Total": "130€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abbf"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Sagrada familia, céntrico exterior.Piso particular",
+  "Zona": "La Sagrada Familia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (4 evaluaciones)",
+  "Noche": "45 €",
+  "Total": "90€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc0"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Nice Room Macba",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,81",
+  "Evaluaciones": " (367 evaluaciones)",
+  "Noche": "65 €",
+  "Total": "130€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc1"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación doble muy cómoda/sagrada familia",
+  "Zona": "Distrito de Horta-Guinardó",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,64",
+  "Evaluaciones": " (11 evaluaciones)",
+  "Noche": "39 €",
+  "Total": "78€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc2"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "MODERN LOFT CAMP NOU WITH WI-FI AND AIRE",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "4 huéspedes · 2 dormitorios · 3 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,65",
+  "Evaluaciones": " (124 evaluaciones)",
+  "Noche": "81 €",
+  "Total": "162€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc3"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "B&B 1 -Habitación privada cerca Estación de Sants.",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 2 baños compartidos",
+  "Servicios": "Wifi",
+  "Fechas": "19 nov. – 21 nov.",
+  "Valoracion": "4,32",
+  "Evaluaciones": " (56 evaluaciones)",
+  "Noche": "36 €",
+  "Total": "71€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc4"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Precioso Apartamento en Barcelona *Bcn* E02",
+  "Zona": "Eixample",
+  "Nhab": "3 huéspedes · 1 dormitorio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,6",
+  "Evaluaciones": " (84 evaluaciones)",
+  "Noche": "103 €",
+  "Total": "206€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc5"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "Precioso Loft en Barcelona *Bcn* E03.",
+  "Zona": "Eixample",
+  "Nhab": "3 huéspedes · Estudio · 2 camas · 1 baño",
+  "Servicios": "Tu anfitrión es una empresa · Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,56",
+  "Evaluaciones": " (87 evaluaciones)",
+  "Noche": "103 €",
+  "Total": "206€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc6"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Habitación Doble con baño privado - 2 camas",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1,5 baños",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (7 evaluaciones)",
+  "Noche": "69 €",
+  "Total": "138€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc7"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación tranquila",
+  "Zona": "Distrito de San Andrés",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,55",
+  "Evaluaciones": " (41 evaluaciones)",
+  "Noche": "36 €",
+  "Total": "71€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc8"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación moderna en el born",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,78",
+  "Evaluaciones": " (380 evaluaciones)",
+  "Noche": "52 €",
+  "Total": "103€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abc9"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Gorgeous vintage room with AC (old town)",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,85",
+  "Evaluaciones": " (379 evaluaciones)",
+  "Noche": "76 €",
+  "Total": "151€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abca"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room in the center of Barcelona 1",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,44",
+  "Evaluaciones": " (59 evaluaciones)",
+  "Noche": "55 €",
+  "Total": "110€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abcb"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Spotless db room + private bathroom Sants Stn",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "3 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,81",
+  "Evaluaciones": " (97 evaluaciones)",
+  "Noche": "73 €",
+  "Total": "145€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abcc"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Large cosy room in medieval town, city centre",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,8",
+  "Evaluaciones": " (69 evaluaciones)",
+  "Noche": "83 €",
+  "Total": "165€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abcd"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Double Simple Room + Perfect Central Location",
+  "Zona": "Sant Marti",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,45",
+  "Evaluaciones": " (20 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abce"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Cozy Room in Eixample (downtown Barcelona) 2",
+  "Zona": "L'Antiga Esquerra de l'Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,5",
+  "Evaluaciones": " (40 evaluaciones)",
+  "Noche": "61 €",
+  "Total": "121€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abcf"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Unique & Quiet Space in Heart of Barcelona",
+  "Zona": "Ciutat Vella",
+  "Nhab": "3 huéspedes · 1 dormitorio · 2 camas · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,97",
+  "Evaluaciones": " (32 evaluaciones)",
+  "Noche": "57 €",
+  "Total": "114€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd0"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Large room with private balcony 1",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "4 huéspedes · 1 dormitorio · 3 camas · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,54",
+  "Evaluaciones": " (28 evaluaciones)",
+  "Noche": "71 €",
+  "Total": "142€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd1"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación doble ideal para parejas",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,83",
+  "Evaluaciones": " (36 evaluaciones)",
+  "Noche": "58 €",
+  "Total": "116€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd2"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Stylish Balcony Private Room",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,62",
+  "Evaluaciones": " (144 evaluaciones)",
+  "Noche": "53 €",
+  "Total": "106€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd3"
+  },
+  "Tipo": "Apartamento con servicios entero",
+  "nombreAlojamiento": "Estudio luminoso en el centro de Barcelona",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · Estudio · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,7",
+  "Evaluaciones": " (47 evaluaciones)",
+  "Noche": "122 €",
+  "Total": "244€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd4"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "✈️ Habitación individual a 10 minutos del aeropuerto.",
+  "Zona": "El Prat de Llobregat",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "19 nov. – 21 nov.",
+  "Valoracion": "4,56",
+  "Evaluaciones": " (16 evaluaciones)",
+  "Noche": "30 €",
+  "Total": "59€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd5"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Room whith private bathroom, center near beach",
+  "Zona": "Ciutat Vella",
+  "Nhab": "4 huéspedes · 1 dormitorio · 3 camas · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,42",
+  "Evaluaciones": " (88 evaluaciones)",
+  "Noche": "70 €",
+  "Total": "139€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd6"
+  },
+  "Tipo": "Alojamiento entero: loft",
+  "nombreAlojamiento": "Precioso Loft en Barcelona *Bcn* C03",
+  "Zona": "Eixample",
+  "Nhab": "3 huéspedes · Estudio · 2 camas · 1 baño",
+  "Servicios": "Tu anfitrión es una empresa · Wifi · Cocina · Lavadora",
+  "Fechas": "3 dic. – 5 dic.",
+  "Valoracion": "4,66",
+  "Evaluaciones": " (92 evaluaciones)",
+  "Noche": "130 €",
+  "Total": "260€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd7"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Finca Modernista S. XIX Arc del Triunf Hab. Single",
+  "Zona": "Eixample",
+  "Nhab": "1 huésped · 1 dormitorio · 2 camas · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,93",
+  "Evaluaciones": " (14 evaluaciones)",
+  "Noche": "42 €",
+  "Total": "83€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd8"
+  },
+  "Tipo": "Habitación de hostal",
+  "nombreAlojamiento": "Pension Ciudadela - Individual - Tarifa estandar",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,73",
+  "Evaluaciones": " (11 evaluaciones)",
+  "Noche": "59 €",
+  "Total": "118€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abd9"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "5-3 · Apartamento con encanto en Barcelona",
+  "Zona": "Eixample",
+  "Nhab": "4 huéspedes · 2 dormitorios · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,71",
+  "Evaluaciones": " (24 evaluaciones)",
+  "Noche": "131 €",
+  "Total": "261€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abda"
+  },
+  "Tipo": "Habitación de hotel",
+  "nombreAlojamiento": "Lovely Double Room with balcony Born",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,62",
+  "Evaluaciones": " (185 evaluaciones)",
+  "Noche": "77 €",
+  "Total": "153€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abdb"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Luminosa habitación en casa en Barcelona",
+  "Zona": "Gràcia",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 2,5 baños compartidos",
+  "Servicios": "Wifi · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,79",
+  "Evaluaciones": " (63 evaluaciones)",
+  "Noche": "49 €",
+  "Total": "98€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abdc"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Cuarto Doble Acogedor en centro BCN. Calefacción",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,84",
+  "Evaluaciones": " (149 evaluaciones)",
+  "Noche": "65 €",
+  "Total": "130€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abdd"
+  },
+  "Tipo": "Alojamiento entero: apartamento",
+  "nombreAlojamiento": "New apartment. Fira I Europa. - MWC, Granvia Fira",
+  "Zona": "complejo residencial",
+  "Nhab": "4 huéspedes · 1 dormitorio · 2 camas · 1,5 baños",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,72",
+  "Evaluaciones": " (220 evaluaciones)",
+  "Noche": "103 €",
+  "Total": "206€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abde"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitacion Sants-Monjuic",
+  "Zona": "Distrito de Sants-Montjuïc",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "NA",
+  "Evaluaciones": "No hay evaluaciones",
+  "Noche": "30 €",
+  "Total": "59€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abdf"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Single room in the heart of Gracia",
+  "Zona": "Gràcia",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,53",
+  "Evaluaciones": " (157 evaluaciones)",
+  "Noche": "40 €",
+  "Total": "79€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe0"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Single room in the heart of Gracia",
+  "Zona": "Gràcia",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,53",
+  "Evaluaciones": " (157 evaluaciones)",
+  "Noche": "40 €",
+  "Total": "79€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe1"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Bonito y Centrico! Plaza España-FIRA- Rambla 10\"",
+  "Zona": "El Poble Sec",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,49",
+  "Evaluaciones": " (134 evaluaciones)",
+  "Noche": "116 €",
+  "Total": "231€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe2"
+  },
+  "Tipo": "Habitación de hotel",
+  "nombreAlojamiento": "Tiny Double Room",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,69",
+  "Evaluaciones": " (191 evaluaciones)",
+  "Noche": "70 €",
+  "Total": "139€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe3"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "DOUBLE ROOM NEAR TO THE BEACH AND SAGRADA FAMILIA",
+  "Zona": "El Fort Pienc",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,31",
+  "Evaluaciones": " (29 evaluaciones)",
+  "Noche": "52 €",
+  "Total": "104€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe4"
+  },
+  "Tipo": "Habitación de hotel",
+  "nombreAlojamiento": "AIRHOSTEL Aeropuerto Barcelona (Mixed room 001)",
+  "Zona": "El Prat de Llobregat",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 7 baños",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "26 nov. – 28 nov.",
+  "Valoracion": "4,55",
+  "Evaluaciones": " (108 evaluaciones)",
+  "Noche": "18 €",
+  "Total": "36€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe5"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Céntrico, tranquilo y seguro",
+  "Zona": "L'Antiga Esquerra de l'Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,78",
+  "Evaluaciones": " (63 evaluaciones)",
+  "Noche": "58 €",
+  "Total": "116€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe6"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Bcn. Gracia, tranquilo y con terraza",
+  "Zona": "El Camp d'en Grassot i Gràcia Nova",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,83",
+  "Evaluaciones": " (7 evaluaciones)",
+  "Noche": "36 €",
+  "Total": "71€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe7"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Barcelona One",
+  "Zona": "Ciutat Vella",
+  "Nhab": "1 huésped · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "31 dic. – 2 ene.",
+  "Valoracion": "4,41",
+  "Evaluaciones": " (140 evaluaciones)",
+  "Noche": "40 €",
+  "Total": "80€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe8"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "#1 Atico soleado con terraza - Camp Nou - BCN Fira",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "4 huéspedes · 1 dormitorio · 3 camas · 1,5 baños",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,87",
+  "Evaluaciones": " (226 evaluaciones)",
+  "Noche": "105 €",
+  "Total": "210€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abe9"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "4-4 · Céntrico apartamento de diseño",
+  "Zona": "Eixample",
+  "Nhab": "4 huéspedes · 2 dormitorios · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": 5,
+  "Evaluaciones": " (9 evaluaciones)",
+  "Noche": "130 €",
+  "Total": "259€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abea"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "5-1 · Precioso apartamento en el centro de Barcelona",
+  "Zona": "Eixample",
+  "Nhab": "4 huéspedes · 2 dormitorios · 2 camas · 1 baño",
+  "Servicios": "Wifi · Cocina · Lavadora · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,33",
+  "Evaluaciones": " (12 evaluaciones)",
+  "Noche": "120 €",
+  "Total": "239€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abeb"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "habitacion privada en Sants estacion",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,56",
+  "Evaluaciones": " (27 evaluaciones)",
+  "Noche": "26 €",
+  "Total": "52€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abec"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Quiet Room in a Catalan Modernist Apartment",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1,5 baños compartidos",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "NA",
+  "Evaluaciones": "No hay evaluaciones",
+  "Noche": "60 €",
+  "Total": "119€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abed"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Beauty Room for 2 Persons Centre El Born",
+  "Zona": "Sant Pere-Santa Caterina i la Ribera",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño compartido",
+  "Servicios": "Wifi · Cocina · Lavadora",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,72",
+  "Evaluaciones": " (75 evaluaciones)",
+  "Noche": "77 €",
+  "Total": "154€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abee"
+  },
+  "Tipo": "Alojamiento entero: piso",
+  "nombreAlojamiento": "Precioso Estudio en Barcelona *Bcn* A01",
+  "Zona": "Eixample",
+  "Nhab": "3 huéspedes · Estudio · 2 camas · 1 baño",
+  "Servicios": "Tu anfitrión es una empresa · Wifi · Cocina · Lavadora",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,76",
+  "Evaluaciones": " (46 evaluaciones)",
+  "Noche": "103 €",
+  "Total": "206€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abef"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Habitación doble ( tranquila) cerca de Las Ramblas",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 2 camas · 2 baños compartidos",
+  "Servicios": "Wifi · Lavadora",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,9",
+  "Evaluaciones": " (10 evaluaciones)",
+  "Noche": "50 €",
+  "Total": "100€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abf0"
+  },
+  "Tipo": "Habitación de hotel boutique",
+  "nombreAlojamiento": "Urban Boutique Room 3",
+  "Zona": "L'Hospitalet de Llobregat",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 cama · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "17 dic. – 19 dic.",
+  "Valoracion": "4,4",
+  "Evaluaciones": " (20 evaluaciones)",
+  "Noche": "51 €",
+  "Total": "102€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abf1"
+  },
+  "Tipo": "Habitación de hotel",
+  "nombreAlojamiento": "Estilo atemporal en habitación doble con balcón",
+  "Zona": "Eixample",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 baño privado",
+  "Servicios": "Wifi · Aire acondicionado",
+  "Fechas": "10 dic. – 12 dic.",
+  "Valoracion": "4,52",
+  "Evaluaciones": " (462 evaluaciones)",
+  "Noche": "84 €",
+  "Total": "168€ en total"
+},
+{
+  "_id": {
+    "$oid": "6581ffbe7d4586d80596abf2"
+  },
+  "Tipo": "Habitación privada",
+  "nombreAlojamiento": "Luxurious Room with En Suite Bathroom",
+  "Zona": "Ciutat Vella",
+  "Nhab": "2 huéspedes · 1 dormitorio · 1 baño privado",
+  "Servicios": "Wifi · Cocina · Aire acondicionado",
+  "Fechas": "24 dic. – 26 dic.",
+  "Valoracion": "4,88",
+  "Evaluaciones": " (42 evaluaciones)",
+  "Noche": "95 €",
+  "Total": "189€ en total"
+}]
