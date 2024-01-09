@@ -1,6 +1,8 @@
 # Importar la libreria beautiful soup
 from bs4 import BeautifulSoup
 import requests
+import os
+ruta=os.getcwd()+r"\Analisis-de-datos\Web Scraping"
 # Asignar la URL de la pagina
 sitio_web="https://subslikescript.com/movie/Titanic-120338"
 
@@ -17,4 +19,8 @@ desc=caja.find("p").get_text() # Burcar la etiqueta p en main-article
 
 transc=caja.find("div", class_="full-script").get_text(strip=True, separator="") # buscar la etiqueta div en main-article e ignorar el salto de linea
 
-print(transc) #Imprimir de forma entendible la informacion
+print(transc, "\n<Marcelo Pinzon>") #Imprimir de forma entendible la informacion
+
+# Abriri el archivo con codificacion utf-8 y guardar la transcripcion
+with open(ruta+"/titanic.txt", "w", encoding="utf-8") as archivo:
+    archivo.write(transc)
