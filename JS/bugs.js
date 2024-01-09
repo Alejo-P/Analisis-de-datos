@@ -1,7 +1,7 @@
 // Importar las bibliotecas necesarias (cheerio y axios)
 // para poder realizar peticiones http a través de JavaScript.
-import axios from 'axios'; 
-import cheerio from 'cheerio';
+const axios = require('axios'); 
+const cheerio = require('cheerio');
 
 // Definir variables necesarias
 const misterio="https://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
