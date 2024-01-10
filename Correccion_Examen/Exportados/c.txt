@@ -1,1 +1,1 @@
-El elemento 'Drama' se repite 7085 veces en la c0lumna "Genre"
+El genero 'Drama' se repite 7085 veces en la columna "Genre"
