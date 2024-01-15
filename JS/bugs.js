@@ -8,10 +8,13 @@ const path = require('path');
 
 // Definir variables necesarias
 const misterio="https://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
+
 // Definir la ruta de trabajo actual
 const ruta = path.join(process.cwd(), 'Analisis-de-datos', 'JS');
+
 // Declarar un arreglo
 Dato_libro=[]
+
 // Funcion para realizar la peticion a la pagina web y obtener libros
 async function getLibros(url)
 {
@@ -39,6 +42,7 @@ async function getLibros(url)
     }
 }
 
+// FUncion para crear y guardar os datos recuperados en un archivo CSV
 function guardarCSV(datos) {
     // Crear contenido CSV
     const csvContent = "Título;Precio;Stock\n" +
