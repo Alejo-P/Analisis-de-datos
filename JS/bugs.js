@@ -15,7 +15,7 @@ async function getLibros(url)
         const respuesta=await axios.get(url);
         const $=cheerio.load(respuesta.data);
         const libros=$( "article");
-        libros=each(function()
+        libros.each(function()
         {
             titulo=$(this).find("h1 a").text();
             precio=$(this).find(".price_color").text();
