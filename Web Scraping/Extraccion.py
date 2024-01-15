@@ -2,6 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import os
+
 ruta=os.getcwd()+r"\Analisis-de-datos\Web Scraping"
 # Asignar la URL de la pagina
 sitio_web="https://subslikescript.com/movie/Titanic-120338"
@@ -21,6 +22,6 @@ transc=caja.find("div", class_="full-script").get_text(strip=True, separator="")
 
 print(transc, "\n<Marcelo Pinzon>") #Imprimir de forma entendible la informacion
 
-# Abriri el archivo con codificacion utf-8 y guardar la transcripcion
+# Abrir el archivo con codificacion utf-8 y guardar la transcripcion
 with open(ruta+"/titanic.txt", "w", encoding="utf-8") as archivo:
     archivo.write(transc)
