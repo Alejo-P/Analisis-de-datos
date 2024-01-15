@@ -1,7 +1,6 @@
 # Importar la libreria beautiful soup
 from bs4 import BeautifulSoup
-import requests
-import os
+import requests, os
 
 ruta=os.getcwd()+r"\Analisis-de-datos\Web Scraping"
 # Asignar la URL de la pagina
