@@ -16,8 +16,8 @@ canal=rss.channel
 noticias=sopa.rss.channel.find_all("item")
 pprint(noticias[1].title)
 #contenido=pagina.text
-for noticia in noticias:
-    print("Nombre: ", noticia.title.text, "\nFecha: ", noticia.pubdate.text)
+#for noticia in noticias:
+    #print("Nombre: ", noticia.title.text, "\nFecha: ", noticia.pubdate.text)
 
 # Conectarse a mongo DB Server
 cliente = MongoClient("mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false")
@@ -28,3 +28,14 @@ noticia = {"titulo": "Clase de analisis de datos - Marcelo Pinzon",
            "Fecha de publicacion": "16/1/2024",
            "Fuente": "3 de desarrollo de software"}
 Coleccion.insert_one(noticia) #Insertar un solo dato (diccionario)
+# recorrer el arreglo
+Lista_dic=[] # Definir un arreglo para almacenar los diccionarios
+for noticia in noticias:
+    # Diccionario para almacenar los datos extraidos
+    Noticia_dic={"Titulo": noticia.title.text,
+                 "Fecha pub": noticia.pubdate.text,
+                 "Fuente":url}
+    Lista_dic.append(Noticia_dic) # Almacenar el diccionario en el arreglo
+# Insertar los datos del arreglo a MongoBD
+resultados = Coleccion.insert_many(Lista_dic)
+pprint(resultados.inserted_ids)
