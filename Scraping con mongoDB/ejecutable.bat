@@ -1,0 +1,2 @@
+python Noticias.py
+pause
