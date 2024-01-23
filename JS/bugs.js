@@ -42,16 +42,16 @@ async function getLibros(url)
     }
 }
 
-// FUncion para crear y guardar os datos recuperados en un archivo CSV
+// Funcion para crear y guardar los datos obtenidos en un archivo CSV
 function guardarCSV(datos) {
-    // Crear contenido CSV
+    // Estructurar el contenido del archivo (delimitadores)
     const csvContent = "Título;Precio;Stock\n" +
         datos.map(libro => `${libro.titulo};${libro.precio};${libro.strock}`).join("\n");
 
     // Especificar la ruta del archivo CSV
     const rutaArchivo = path.join(ruta,"libros.csv");
 
-    // Escribir en el archivo CSV
+    // Crear y guardar informacion en el archivo CSV
     fs.writeFile(rutaArchivo, csvContent, 'utf8', (err) => {
         if (err) {
             console.error("Error al escribir en el archivo CSV:", err);
